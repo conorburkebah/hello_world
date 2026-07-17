@@ -5,10 +5,10 @@ Simple FastAPI app managed with `uv`.
 ## Run
 
 ```bash
-uv run uvicorn main:app --reload --port 8013
+uv run uvicorn main:app --reload --port 8014
 ```
 
-Then open http://127.0.0.1:8013
+Then open http://127.0.0.1:8014
 
 ## Endpoints
 
