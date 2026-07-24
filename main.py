@@ -12,7 +12,7 @@ def read_root():
 def main():
     import uvicorn
 
-    uvicorn.run("main:app", host="127.0.0.1", port=8035, reload=True)
+    uvicorn.run("main:app", host="127.0.0.1", port=8036, reload=True)
 
 
 if __name__ == "__main__":
